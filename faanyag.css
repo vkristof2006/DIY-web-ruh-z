@@ -18,3 +18,8 @@ td{
     background-color: red;
     padding: 15px;
 }
+
+header{
+    text-align: center;
+    font-size: 80px;
+}
