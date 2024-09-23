@@ -5,11 +5,11 @@ img{
 
 td{
     width: 10%;
+    border: solid black 2px;
 }
 
 table{
-    border-width: 5px;
-    border-color: black;
+    border: solid black 5px;
     text-align: center;
 }
 

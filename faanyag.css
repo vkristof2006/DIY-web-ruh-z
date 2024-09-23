@@ -1,6 +1,6 @@
 img{
     border-radius: 200px;
-    margin: 5px;
+    margin: 1px;
 }
 
 p{
@@ -12,6 +12,7 @@ p{
 td{
     text-align: center;
     font-size: large;
+    border: solid black 2px;
 }
 
 .linkek{
@@ -27,4 +28,8 @@ header{
 
 footer{
     font-size: large;
+}
+
+table{
+    border: solid black 5px;
 }

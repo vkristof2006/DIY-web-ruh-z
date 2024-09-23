@@ -24,3 +24,6 @@ header{
     font-style: italic;
 }
 
+table{
+    border: solid black 5px;
+}

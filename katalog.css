@@ -18,7 +18,11 @@ img{
     font-size: 30px;
 }
 
+
 header{
     text-align: center;
     font-size: 80px;
+}
+table{
+    border: solid black 5px;
 }
