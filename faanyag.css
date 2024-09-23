@@ -17,9 +17,14 @@ td{
 .linkek{
     background-color: red;
     padding: 15px;
+    font-size: 30px;
 }
 
 header{
     text-align: center;
     font-size: 80px;
+}
+
+footer{
+    font-size: large;
 }
