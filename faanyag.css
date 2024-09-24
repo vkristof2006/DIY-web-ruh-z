@@ -30,6 +30,6 @@ footer{
     font-size: large;
 }
 
-table{
-    border: solid black 5px;
+html{
+    background-color: lightblue;
 }

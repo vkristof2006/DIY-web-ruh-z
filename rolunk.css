@@ -2,10 +2,12 @@ html{
     margin-left: 500px;
     margin-right: 500px;
     font-size: 23px;
+    background-color: lightblue;
 }
 
 p{
     font-size: 25px;
+    font-style: italic;
 }
 
 img{

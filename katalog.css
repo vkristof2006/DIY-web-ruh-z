@@ -2,6 +2,7 @@ html{
     margin-left: 500px;
     margin-right: 500px;
     font-size: 23px;
+    background-color: lightblue;
 }
 
 p{
@@ -10,6 +11,7 @@ p{
 }   
 img{
     width: 75%;
+    border-radius: 50%;
 }
 
 .linkek{
@@ -25,4 +27,24 @@ header{
 }
 table{
     border: solid black 5px;
+}
+
+.button{
+    border-radius: 50%;
+    background-color: lightblue;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: inline-block;
+    cursor: pointer;
+    margin: 5px;
+    transition: all 0.5s;
+}
+
+.button:hover{
+    background-color: #3e8e41
+}
+
+.button:active{
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
