@@ -4,7 +4,6 @@ img{
 }
 
 td{
-    width: 10%;
     border: solid black 2px;
 }
 
@@ -35,4 +34,8 @@ p{
 
 html{
     background-color: lightblue;
+}
+
+a{
+    color: white;
 }
