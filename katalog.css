@@ -27,6 +27,7 @@ header{
 }
 table{
     border: solid black 5px;
+    text-align: center;
 }
 
 .button{
